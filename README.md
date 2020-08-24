@@ -1,4 +1,4 @@
-# touristaan_v1
+# TOURISTAAN
 
 A new Flutter application.
 
